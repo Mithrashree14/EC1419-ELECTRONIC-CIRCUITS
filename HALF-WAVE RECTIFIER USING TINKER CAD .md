@@ -9,6 +9,6 @@
 <img width="363" height="139" alt="image" src="https://github.com/user-attachments/assets/dcfc0e65-1a31-44a3-8ac2-8b39673ca858" />
 
 ## TINKER CAD OUTPUT CIRCUIT
-<img width="929" height="443" alt="image" src="https://github.com/user-attachments/assets/192bee13-4cd0-4fc9-a69f-8af3d0684f89" />
+<img width="1129" height="425" alt="image" src="https://github.com/user-attachments/assets/cd9ff190-472b-4436-a933-5e712f85890d" />
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
