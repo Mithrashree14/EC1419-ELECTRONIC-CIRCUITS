@@ -4,8 +4,9 @@
 <img width="752" height="497" alt="image" src="https://github.com/user-attachments/assets/e23953c7-bb20-4b94-aadb-8b5530894bac" />
 <img width="591" height="461" alt="image" src="https://github.com/user-attachments/assets/b9852354-c1e4-46dc-b7c0-0b9490f17d07" />
 
-<img width="367" height="698" alt="image" src="https://github.com/user-attachments/assets/9d1e8d09-4a08-410a-833a-2da4ab3caae8" />
-<img width="390" height="689" alt="image" src="https://github.com/user-attachments/assets/80653ddc-e69e-4bd7-81be-012f1038b146" />
+<img width="378" height="686" alt="image" src="https://github.com/user-attachments/assets/a07f9485-6b9f-4276-bb08-006e3355b4a7" />
+
+<img width="363" height="139" alt="image" src="https://github.com/user-attachments/assets/dcfc0e65-1a31-44a3-8ac2-8b39673ca858" />
 
 ## TINKER CAD OUTPUT CIRCUIT
 <img width="929" height="443" alt="image" src="https://github.com/user-attachments/assets/192bee13-4cd0-4fc9-a69f-8af3d0684f89" />
